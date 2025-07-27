@@ -1,0 +1,7 @@
+streamlit
+beautifulsoup4
+requests
+chromadb
+sentence-transformers
+google-generativeai
+python-dotenv
